@@ -2,7 +2,7 @@
 # YOU CANT DECRYPT !¡! 
 # COMANDS/
 
-$ https://github.com/hamalord4444/CRACK-ALL-COUNTRIES
+$ git clone https://github.com/hamalord4444/CRACK-ALL-COUNTRIES
 
 $ cd CRACK-ALL-COUNTRIES
 
